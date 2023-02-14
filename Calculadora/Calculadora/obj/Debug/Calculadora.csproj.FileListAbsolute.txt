@@ -1,0 +1,8 @@
+F:\ProyectosSolid\CalculadoraProject\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+F:\ProyectosSolid\CalculadoraProject\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+F:\ProyectosSolid\CalculadoraProject\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+F:\ProyectosSolid\CalculadoraProject\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+F:\ProyectosSolid\CalculadoraProject\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+F:\ProyectosSolid\CalculadoraProject\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+F:\ProyectosSolid\CalculadoraProject\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+F:\ProyectosSolid\CalculadoraProject\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
